@@ -5,6 +5,8 @@ Welcome to my personal portfolio website, designed to showcase my professional s
 
 🌐 Live Site: https://Princengwane.github.io/portfolio/
 
+Documentation link: https://docs.google.com/document/d/113cn5_cMMd-hrQ5meE_vWJm4mOB1uPgAflmpKhzQLTw/edit?usp=sharing
+
 #Features
 
 Hero Section: Profile picture, professional title, and brief introduction.
